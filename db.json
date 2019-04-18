@@ -1,0 +1,20 @@
+{
+    "cards": [
+        {
+            "extraText": "This is my message to you!",
+            "imageUrl": "SOME_WRONG_URL",
+            "senderNickname": "coolUser_96",
+            "remainingTimeInMin": 76,
+            "votesForCounter": 2571,
+            "votesAgainstCounter": 1632
+        },
+        {
+            "extraText": "Hello, what's up?",
+            "imageUrl": "SOME_WRONG_URL",
+            "senderNickname": "andyy75_fine",
+            "remainingTimeInMin": 13,
+            "votesForCounter": 12,
+            "votesAgainstCounter": 54
+        }
+    ]
+}

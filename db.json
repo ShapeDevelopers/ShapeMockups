@@ -2,7 +2,7 @@
     "cards": [
         {
             "extraText": "This is my message to you!",
-            "imageUrl": "SOME_WRONG_URL",
+            "imageUrl": "https://raw.githubusercontent.com/ShapeDevelopers/ShapeMockups/master/images/cards/acinonyx.jpg",
             "senderNickname": "coolUser_96",
             "remainingTimeInMin": 76,
             "votesForCounter": 2571,
@@ -10,11 +10,59 @@
         },
         {
             "extraText": "Hello, what's up?",
-            "imageUrl": "SOME_WRONG_URL",
+            "imageUrl": "https://raw.githubusercontent.com/ShapeDevelopers/ShapeMockups/master/images/cards/bird.jpg",
             "senderNickname": "andyy75_fine",
             "remainingTimeInMin": 13,
             "votesForCounter": 12,
             "votesAgainstCounter": 54
+        },
+        {
+            "extraText": "Hi hello",
+            "imageUrl": "https://raw.githubusercontent.com/ShapeDevelopers/ShapeMockups/master/images/cards/cat.jpg",
+            "senderNickname": "someOnee",
+            "remainingTimeInMin": 66,
+            "votesForCounter": 2691,
+            "votesAgainstCounter": 1122
+        },
+        {
+            "extraText": "It's funny",
+            "imageUrl": "https://raw.githubusercontent.com/ShapeDevelopers/ShapeMockups/master/images/cards/fox.jpg",
+            "senderNickname": "alexis",
+            "remainingTimeInMin": 46,
+            "votesForCounter": 1371,
+            "votesAgainstCounter": 1792
+        },
+        {
+            "extraText": "I'm happy :)!",
+            "imageUrl": "https://raw.githubusercontent.com/ShapeDevelopers/ShapeMockups/master/images/cards/hamster.jpg",
+            "senderNickname": "barn87",
+            "remainingTimeInMin": 53,
+            "votesForCounter": 1471,
+            "votesAgainstCounter": 1639
+        },
+        {
+            "extraText": "Amazing!!!",
+            "imageUrl": "https://raw.githubusercontent.com/ShapeDevelopers/ShapeMockups/master/images/cards/beach.jpg",
+            "senderNickname": "hi_hoo",
+            "remainingTimeInMin": 11,
+            "votesForCounter": 98,
+            "votesAgainstCounter": 53
+        },
+        {
+            "extraText": "Mood...",
+            "imageUrl": "https://raw.githubusercontent.com/ShapeDevelopers/ShapeMockups/master/images/cards/city.jpg",
+            "senderNickname": "calm_person",
+            "remainingTimeInMin": 2,
+            "votesForCounter": 98,
+            "votesAgainstCounter": 28
+        },
+          {
+            "extraText": "Do you want to go out?",
+            "imageUrl": "https://raw.githubusercontent.com/ShapeDevelopers/ShapeMockups/master/images/cards/cabin.jpg",
+            "senderNickname": "randomer52",
+            "remainingTimeInMin": 1,
+            "votesForCounter": 15,
+            "votesAgainstCounter": 0
         }
     ]
 }
